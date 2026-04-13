@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gbhardwaj99
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Dev with React
-- 💞️ I’m looking to collaborate on Web Dev Full Stack Projects
+- 👀 I’m an AI Engineer
+- 🌱 I’m currently learning Generative AI
+- 💞️ I’m looking to collaborate on Gen AI/Agentic Project Workflows
 - 📫 How to reach me gaurang.bhardwaj1998@gmail.com
 
 <!---
