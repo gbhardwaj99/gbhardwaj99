@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gbhardwaj99
-- 👀 I’m an AI Engineer
+- 👀 I’m an AI Engineer interested in all things Machine Learning
 - 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on Gen AI/Agentic Project Workflows
 - 📫 How to reach me gaurang.bhardwaj1998@gmail.com
